@@ -7,7 +7,7 @@
 ┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
 ┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
 
-www.hacketheplanet.net.br | hacktheplanet@hacktheplanet.net.br 
+www.hacketheplanet.net.br | hacktheplanet@hacktheplanet.net.br
 youtube | instagram | twitter: @HackthePlanetBR
 
 
