@@ -7,8 +7,7 @@
 ┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
 ┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃┃
 
-www.hacketheplanet.net.br | hacktheplanet@hacktheplanet.net.br
-youtube | instagram | twitter: @HackthePlanetBR
+www.hacketheplanet.net.br | hacktheplanet@hacktheplanet.net.br youtube | instagram | twitter: @HackthePlanetBR
 
 
 Script para ativar o modo Monitoramento e injeção de pacote no adaptador TP-Link, modelo TL-WN722n v2 e v3
